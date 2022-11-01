@@ -40,7 +40,3 @@ OS: Windows or Linux
 * [Unity Game Development in 4 hours [Video]](https://www.packtpub.com/game-development/unity-game-development-4-hours-video?utm_source=github&utm_medium=repository&utm_campaign=9781838551520)
 
 * [Mobile Game Development with Unity 3D 2019 [Video]](https://www.packtpub.com/game-development/mobile-game-development-unity-3d-2019-video?utm_source=github&utm_medium=repository&utm_campaign=9781838559939)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781783559909">https://packt.link/free-ebook/9781783559909 </a> </p>
